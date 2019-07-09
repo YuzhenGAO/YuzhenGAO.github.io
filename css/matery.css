@@ -163,7 +163,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #000000 0%, #808080 100%);
+    background-image: linear-gradient(to right, #808080 0%, #000000 100%);
 }
 
 .text-color {
@@ -386,7 +386,7 @@ header .go-back i {
 }
 
 .bg-cover .title {
-    font-size: 2rem;
+    font-size: 1rem;
     font-weight: 700;
     line-height: 1.85em;
     margin-bottom: 20px;
@@ -401,7 +401,7 @@ header .go-back i {
 }
 
 .bg-cover .post-title {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
 }
 
 @-webkit-keyframes rainbow {

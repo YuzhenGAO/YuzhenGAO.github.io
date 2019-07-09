@@ -387,7 +387,7 @@ header .go-back i {
 }
 
 .bg-cover .title {
-    font-size: 2rem;
+    font-size: 5rem;
     font-weight: 700;
     line-height: 1.85em;
     margin-bottom: 20px;
@@ -402,7 +402,7 @@ header .go-back i {
 }
 
 .bg-cover .post-title {
-    font-size: 0.1rem;
+    font-size: 1.5rem;
 }
 
 @-webkit-keyframes rainbow {

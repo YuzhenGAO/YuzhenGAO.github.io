@@ -164,7 +164,7 @@ mark {
 
 .bg-color {
     background-image: linear-gradient(to right, #000000 0%, #696969 100%);
-	opacity: 0.8;            
+	opacity: 0.7;            
 }
 
 .text-color {
@@ -211,7 +211,7 @@ header .nav-transparent {
 
 header nav .brand-span {
     /* font-size: 1.45rem; */
-	font-size: 1rem;
+	font-size: 1.5rem;
 }
 
 header .brand-logo .logo-img {
@@ -390,7 +390,7 @@ header .go-back i {
 }
 
 .bg-cover .title {
-    font-size: 5rem;
+    font-size: 2.5rem;
     font-weight: 700;
     line-height: 1.85em;
     margin-bottom: 20px;

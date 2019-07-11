@@ -163,7 +163,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #DCDCDC 0%, #F5F5F5 100%);
+    background-image: linear-gradient(to right, #000000 0%, #696969 100%);
 	opacity: 0.8;            
 }
 
@@ -210,7 +210,8 @@ header .nav-transparent {
 }
 
 header nav .brand-span {
-    font-size: 1.45rem;
+    /* font-size: 1.45rem; */
+	font-size: 1rem;
 }
 
 header .brand-logo .logo-img {
@@ -220,7 +221,8 @@ header .brand-logo .logo-img {
 }
 
 header .brand-logo .logo-span {
-    font-size: 2rem;
+    /* font-size: 2rem; */
+	font-size: 1rem;
 }
 
 header .button-collapse i {
